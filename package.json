@@ -1,5 +1,6 @@
 {
 	"author":"Iris Z",
+	"description": "A web app that serves as a practice run for its author to learn npm package management and much more.",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
