@@ -2,6 +2,7 @@
 	"author":"Iris Z",
 	"description": "A web app that serves as a practice run for its author to learn npm package management and much more.",
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
 	"keywords": ["freecodecamp","Iris Z", "trash panda"],
 	"dependencies": {
 		"express": "^4.14.0"
